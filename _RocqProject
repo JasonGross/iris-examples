@@ -130,3 +130,6 @@ theories/locks/array_based_queuing_lock/abql.v
 theories/locks/freeable_lock/freeable_lock.v
 theories/locks/freeable_lock/freeable_logatom_lock.v
 theories/locks/freeable_lock/freeable_spin_lock.v
+
+theories/bitvector_tryout/bv_iris.v
+theories/bitvector_tryout/bv_zmod.v
